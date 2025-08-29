@@ -12,7 +12,6 @@ coverage/
 
 node_modules/
 build/
-.env
 .env.local
 .env.development.local
 .env.test.local
@@ -22,7 +21,6 @@ build/
 public/static/
 
 *.dockerignore
-Dockerfile
 docker-compose.override.yml
 docker-compose.override.yaml
 
